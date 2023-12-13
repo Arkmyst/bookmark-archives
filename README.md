@@ -9,15 +9,48 @@
 - [cs-general](#cs-general)
 - [cs-courses](#cs-courses)
 - [tutorials](#tutorials)
-- [security-cryptography](#security-cryptography)
-- [neovim](#neovim)
-- [dotfiles-inspiration](#dotfiles-inspiration)
-- [emacs](#emacs)
+- [cheat-sheets](#cheat-sheets)
 - [programming-languages](#programming-languages)
-- [machine-learning](#machine-learning)
 - [career-and-student-resources](#career-and-student-resources)
+- [dotfiles-inspiration](#dotfiles-inspiration)
 - [random-chaos](#random-chaos)
-  
+
+---
+
+## tutorials
+- https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
+- https://tobi.oetiker.ch/lshort/lshort.pdf
+- https://www.shellscript.sh/
+- https://zsh.sourceforge.io/Guide/
+- https://github.com/microsoft/ML-For-Beginners
+- https://github.com/microsoft/IoT-For-Beginners
+- https://github.com/microsoft/Web-Dev-For-Beginners
+- https://github.com/microsoft/python-for-beginners
+- https://github.com/microsoft/AI-For-Beginners
+- https://github.com/microsoft/generative-ai-for-beginners
+
+---
+
+## cheat-sheets
+- https://www.codecademy.com/resources/cheatsheets/all
+- https://supersimpledev.github.io/references/git-github-reference.pdf
+- https://hackingcpp.com/cpp/cheat_sheets.html
+- https://pub.towardsai.net/make-your-matplotlib-plots-stand-out-using-this-cheat-sheet-8c666de90433
+- https://devhints.io/bash
+- https://www.yumpu.com/en/document/read/41128586/integrals-cheat-sheet-pauls-online-math-notes
+- https://cdn.discordapp.com/attachments/807419494686654494/1030488766814625832/Screenshot_20210603-171952-picsay.png
+
+---
+
+## career-and-student-resources
+- https://reufinder.com/
+- https://github.com/mtdvio/every-programmer-should-know
+- https://graduate.dartmouth.edu/student-support/career-services/interview-practice-techniques/interviewing-academic-job
+- https://refactoring.guru/design-patterns/catalog
+- https://www.eecs.harvard.edu/htk/phdadvice/#1
+- https://karpathy.github.io/2016/09/07/phd/
+- https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/
+
 ---
 
 ## dotfiles-inspiration
@@ -48,34 +81,6 @@
 
 ---
 
-## career-and-student-resources
-- https://www.eecs.harvard.edu/htk/phdadvice/#1 (*)
-- https://karpathy.github.io/2016/09/07/phd/ (*)
-- https://matt.might.net/articles/what-cs-majors-should-know/ (*)
-- https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf (*)
-- https://jsomers.net/i-should-have-loved-biology/ (*)
-- https://www.cs.toronto.edu/~miller/resources.html
-- https://github.com/mtdvio/every-programmer-should-know
-- https://cs.stanford.edu/people/widom/paper-writing.html
-- https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/
-- https://conquer.cra.org/students/applying
-- https://reufinder.com/
-- https://graduate.dartmouth.edu/student-support/career-services/interview-practice-techniques/interviewing-academic-job
-- https://refactoring.guru/design-patterns/catalog
-- https://ibm.github.io/neuro-symbolic-ai/events/ns-summerschool2022/
-- https://www.redblobgames.com/
-- https://hackingcpp.com/cpp/cheat_sheets.html
-- http://www.paulgraham.com/college.html
-- https://noted.lol/back-to-school-self-hosted-edition/
-- https://pub.towardsai.net/make-your-matplotlib-plots-stand-out-using-this-cheat-sheet-8c666de90433
-- https://prog21.dadgum.com/190.html
-- http://www.paulgraham.com/noob.html
-- https://prog21.dadgum.com/80.html
-- https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html
-- https://nomadlist.com/
-- https://prog21.dadgum.com/210.html
-- https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
-- https://overreacted.io/things-i-dont-know-as-of-2018/
-- https://www.natolambert.com/writing/ai-phd-job-hunt
-- https://engineering.virginia.edu/internships-and-summer-experiences-1st-and-2nd-years
-- https://cims.nyu.edu/ai/educational-programs/pathways-ai/
+## random-chaos
+- https://github.com/DenverCoder1/minimalistic-wallpaper-collection/tree/main
+- https://github.com/dharmx/walls
